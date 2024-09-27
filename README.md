@@ -11,3 +11,6 @@ Presentación de la pantalla de Configuración:
 
 Pantalla para ejecución de aleatorización de archivos:
 ![alt text](image.png)
+
+
+Herramienta de Aleatorizacion: _IESS_AleatorizaciónPacientes_Demo.xlsm
