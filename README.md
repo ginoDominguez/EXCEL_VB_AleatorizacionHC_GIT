@@ -3,3 +3,11 @@ El Sistema Nacional de Salud creó un tarifario único para que los diferentes p
 Dada la cantidad de prestaciones por auditar, el tiempo de pago de las prestaciones auditadas llegó a tomar más de un año, generando problemas financieros en algunos prestadores de salud.
 Ante toda la problemática generada y dado que resultaba imposible e ineficiente realizar las auditorías a todas las distintas prestaciones realizadas, y con la finalidad de agilizar las auditorías y los pagos para los prestadores, se publica la norma “Norma para aplicar métodos estadísticos en el control técnico médico de pertinencia médica en las instituciones de la red integral de salud, respecto de las prestaciones de salud otorgadas por los establecimientos de la salud públicos y privados” – resolución MSP 0000046, que permite el uso de métodos estadísticos para clasificar y  muestrear los trámites según el grupo a la que se asocien.
 En base a la resolución MSP 0000046, se desarrolla una plantilla que en base a los listados recibidos se obtengan los grupos asociados, y una muestra aleatoria y representativa para ser auditada por el personal responsable. El muestreo se realiza a nivel de cada trámite
+
+
+Presentación de la pantalla de Configuración:
+
+![alt text](image-1.png)
+
+Pantalla para ejecución de aleatorización de archivos:
+![alt text](image.png)
